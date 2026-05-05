@@ -1,0 +1,18 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.2.4">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>1a767393-f1e5-46b5-bbad-01bea8f52834</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.Kafka" Version="13.2.4" />
+    <PackageReference Include="Aspire.Hosting.PostgreSQL" Version="13.2.4" />
+    <PackageReference Include="Aspire.Hosting.RabbitMQ" Version="13.2.4" />
+    <PackageReference Include="Aspire.Hosting.Redis" Version="13.2.4" />
+  </ItemGroup>
+
+</Project>

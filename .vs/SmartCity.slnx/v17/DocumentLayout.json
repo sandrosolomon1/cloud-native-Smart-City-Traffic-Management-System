@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Thesis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B423DF-954B-97E0-58D0-76C0B723F589}|SmartCity.SensorSimulator\\SmartCity.SensorSimulator.csproj|c:\\users\\dell\\desktop\\thesis\\smartcity.sensorsimulator\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B423DF-954B-97E0-58D0-76C0B723F589}|SmartCity.SensorSimulator\\SmartCity.SensorSimulator.csproj|solutionrelative:smartcity.sensorsimulator\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B423DF-954B-97E0-58D0-76C0B723F589}|SmartCity.SensorSimulator\\SmartCity.SensorSimulator.csproj|c:\\users\\dell\\desktop\\thesis\\smartcity.sensorsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B423DF-954B-97E0-58D0-76C0B723F589}|SmartCity.SensorSimulator\\SmartCity.SensorSimulator.csproj|solutionrelative:smartcity.sensorsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3CEFC0-29A6-78B2-FC4A-1D2F3BC18FAB}|SmartCity.AppHost\\SmartCity.AppHost.csproj|c:\\users\\dell\\desktop\\thesis\\smartcity.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3CEFC0-29A6-78B2-FC4A-1D2F3BC18FAB}|SmartCity.AppHost\\SmartCity.AppHost.csproj|solutionrelative:smartcity.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Thesis\\SmartCity.SensorSimulator\\Worker.cs",
+              "RelativeDocumentMoniker": "SmartCity.SensorSimulator\\Worker.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Thesis\\SmartCity.SensorSimulator\\Worker.cs",
+              "RelativeToolTip": "SmartCity.SensorSimulator\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:44:27.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Thesis\\SmartCity.SensorSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCity.SensorSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Thesis\\SmartCity.SensorSimulator\\Program.cs",
+              "RelativeToolTip": "SmartCity.SensorSimulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:43:44.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Thesis\\SmartCity.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "SmartCity.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Thesis\\SmartCity.AppHost\\AppHost.cs",
+              "RelativeToolTip": "SmartCity.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:11:20.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

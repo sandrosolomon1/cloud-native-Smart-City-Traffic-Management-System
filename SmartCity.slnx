@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="SmartCity.AppHost/SmartCity.AppHost.csproj" />
+  <Project Path="SmartCity.Contracts/SmartCity.Contracts.csproj" />
+  <Project Path="SmartCity.DashboardService/SmartCity.DashboardService.csproj" />
+  <Project Path="SmartCity.EmergencyAPI/SmartCity.EmergencyAPI.csproj" />
+  <Project Path="SmartCity.SensorSimulator/SmartCity.SensorSimulator.csproj" />
+  <Project Path="SmartCity.ServiceDefaults/SmartCity.ServiceDefaults.csproj" />
+  <Project Path="SmartCity.TrafficAnalyzer/SmartCity.TrafficAnalyzer.csproj" />
+  <Project Path="SmartCity.TrafficLightController/SmartCity.TrafficLightController.csproj" />
+</Solution>
